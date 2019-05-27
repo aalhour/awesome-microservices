@@ -179,7 +179,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
-- [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
 
 ### Haskell
 
@@ -204,6 +203,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Dubbo](http://dubbo.io/) - A high-performance, java based RPC framework open-sourced by Alibaba.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 - [Ja-micro](https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (compatible with go-micro).
 - [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
@@ -221,7 +221,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
+- [Scalatra](http://scalatra.org/) - Simple, accessible and free web micro-framework.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
 
@@ -268,7 +268,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Python
 
 - [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio.
-- [API Star](https://github.com/tomchristie/apistar) - A fast and expressive API framework, designed for Python 3.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Sanic](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
@@ -455,7 +454,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 - [Fastjson](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 - [Ffjson](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
-- [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
+- [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
 - [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 - [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
@@ -614,8 +613,9 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Enterprise & Verticals
 
 - [Interact ![c]](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
+- [Moltin ![c]](https://moltin.com/) - eCommerce API for developers.
 - [Predix ![c]](https://predix.io/) - Industrial microservices platform.
-- [YaaS ![c]](https://www.yaas.io) - SAP Hybris microservices ecosystem.
+- [Skava ![c]](https://www.skava.com/) - Provides microservices for all the functions of your store, and the glue to hold them together.
 
 ## Theory
 
